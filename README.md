@@ -1,3 +1,6 @@
+My Fish Fillets Solutions
+======================
+
 My solutions to the best puzzle game ever: Fish Fillets - New Generation
 
 I solved some levels in a very obscure way. If you want to laugh, check out my
@@ -12,3 +15,5 @@ https://play.google.com/store/apps/details?id=cz.ger.ffng&hl=en
 Linux port:
 http://fillets.sourceforge.net/
 
+Info from Altar Games:
+http://www.fish-fillets.com/pages/fishfillets1.html
