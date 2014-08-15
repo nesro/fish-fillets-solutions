@@ -1,4 +1,4 @@
-My Fish Fillets Solutions
+My Fish Fillets Solutions (49/80)
 ======================
 
 My solutions to the best puzzle game ever: Fish Fillets - New Generation
@@ -17,3 +17,6 @@ http://fillets.sourceforge.net/
 
 Info from Altar Games:
 http://www.fish-fillets.com/pages/fishfillets1.html
+
+Hall of fame:
+http://fillets.sourceforge.net/halloffame.php
